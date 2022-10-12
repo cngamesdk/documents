@@ -1,7 +1,7 @@
 ##腾讯广告
 
 #### <a href="https://ad.qq.com/" target="_blank">广告入口</a>
-###[腾讯广告开发者](https://developers.e.qq.com/)
+###[腾讯广告开发者](https://developers.e.qq.com/?_blank)
 ###[商务管家](https://e.qq.com/bm/#/)
 ###[腾讯广告知数](https://dmp.qq.com/dmp)
 ###[商品管理](https://youhuo.qq.com/)
@@ -9,7 +9,7 @@
 ###[创意中心](https://chuangyi.qq.com/)
 ###[线索管理](https://leads.qq.com/)
 ###[微信广告](https://ad.weixin.qq.com/main.html#/)
-###[⼩游戏⼴告数据监控指引](https://ad.weixin.qq.com/pdf.html?post_id=U2FsdGVkX19aLuD2r1tuKNq/kQ5LjTlvIJr88NrPuqc=)
+###[⼩游戏⼴告数据监控指引](https://ad.weixin.qq.com/pdf.html?post_id=U2FsdGVkX19aLuD2r1tuKNq/kQ5LjTlvIJr88NrPuqc=?_blank)
 
 ##微信
 
