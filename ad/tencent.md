@@ -1,6 +1,6 @@
 ##腾讯广告
 
-#### <a href="https://ad.qq.com/">广告入口</a>
+#### <a href="https://ad.qq.com/" target="_blank">广告入口</a>
 ###[腾讯广告开发者](https://developers.e.qq.com/)
 ###[商务管家](https://e.qq.com/bm/#/)
 ###[腾讯广告知数](https://dmp.qq.com/dmp)
