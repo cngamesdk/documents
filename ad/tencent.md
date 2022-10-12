@@ -6,7 +6,7 @@
 ### [腾讯广告知数](https://dmp.qq.com/dmp)
 ### [商品管理](https://youhuo.qq.com/)
 ### [Marketing API](https://developers.e.qq.com/docs/ads)
-###[ 创意中心](https://chuangyi.qq.com/)
+### [创意中心](https://chuangyi.qq.com/)
 ### [线索管理](https://leads.qq.com/)
 ### [微信广告](https://ad.weixin.qq.com/main.html#/)
 ### [⼩游戏⼴告数据监控指引](https://ad.weixin.qq.com/pdf.html?post_id=U2FsdGVkX19aLuD2r1tuKNq/kQ5LjTlvIJr88NrPuqc=?_blank)
