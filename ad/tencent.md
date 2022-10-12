@@ -1,7 +1,7 @@
 ##腾讯广告
 
 #### [广告入口](https://ad.qq.com/)
-### [腾讯广告开发者](https://developers.e.qq.com/){:target="_blank"}
+### [腾讯广告开发者](https://developers.e.qq.com/)
 ### [商务管家](https://e.qq.com/bm/#/)
 ### [腾讯广告知数](https://dmp.qq.com/dmp)
 ### [商品管理](https://youhuo.qq.com/)
