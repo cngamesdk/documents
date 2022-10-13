@@ -2,4 +2,4 @@
 
 [腾讯](tencent.md)
 
-[巨量引擎(头条)](oceanengine.md)
+[头条](oceanengine.md)
