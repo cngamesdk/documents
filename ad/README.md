@@ -4,6 +4,6 @@
 
 [头条](oceanengine.md)
 
-[头条](kuaishou.md)
+[快手](kuaishou.md)
 
 [网易](netease.md)
